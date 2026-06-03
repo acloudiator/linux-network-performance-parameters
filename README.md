@@ -1,4 +1,4 @@
-[🇷🇺](/README_RU.md "Russian")
+[English](README.md) | [Русский](README_RU.md) | [中文](readme_zh-cn.md)
 
 # TOC
 
